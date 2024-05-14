@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(21, 15, 15);
+    color: white;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-family: sans-serif; 
+  }
+  
+  #input {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+  }
+  
+  #btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  
+  p {
+    text-align: center;
+    margin-top: 20px;
+    font-family: sans-serif; 
+  }
